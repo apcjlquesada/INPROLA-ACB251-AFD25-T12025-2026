@@ -8,7 +8,7 @@ class Twoinputs {
 
     // Numerical input
     int a = myObj.nextInt();
-    int a = myObj.nextInt();
+    int b = myObj.nextInt();
 
 
     // Output input by user
